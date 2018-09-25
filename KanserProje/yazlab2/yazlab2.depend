@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1490702698 source:d:\users\erolp\desktop\yazlab2\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<fstream>
+	<vector>
+	<tgmath.h>
+

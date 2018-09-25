@@ -1,0 +1,3 @@
+Bu projede haberman.txt dosyasında kişi bilgileri tutulmaktadır. Her satır bir bireyi içermektedir. Yaşı, kanserli hücre sayısı,
+şuanda yaşayıp yaşamadığı bilgileri bulunmaktadır. Yaşın, yaşadığı yılın, kanserli hücre sayılarının optimumları bulunmuştur.
+Bu optimumların çeşitli kriterlere göre threadler yardımıyla genel entropi bulunması sağlanmıştır.
